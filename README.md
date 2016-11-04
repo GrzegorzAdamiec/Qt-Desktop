@@ -8,7 +8,7 @@ Zbiorcze repozytorium dla wszystkich kursów [Qt Desktop (KursQt)](http://szymon
 2. [Proste wysylanie/odbieranie danych](simple_send_rec_data/)
 3. [Czujnik Temperatury](temperature_sensor/)
 4. [Sygnały i sloty](signals_slots/)
-5. [Przypominacz](reminder/)
+5. [Przypominacz](remind/)
 6. [Odtwarzacz muzyki](audio_player/)
 7. [Find and Replace](find_and_replace/)
 
